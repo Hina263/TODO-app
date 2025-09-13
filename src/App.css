@@ -1,0 +1,24 @@
+#root {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 2rem;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 1.2rem;
+}
+
+.divider {
+  border-top: 1px solid black;
+  margin: 1rem 0;
+  width: 100%;
+}
+
+.task-prompt {
+  border: 2px dashed #aaa;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+  font-style: italic;
+  text-align: left;
+}
